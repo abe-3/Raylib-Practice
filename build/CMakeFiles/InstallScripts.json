@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/abrahamrock/Documents/Academics/Coding/Raylib-Practice/build/cmake_install.cmake",
+		"/Users/abrahamrock/Documents/Academics/Coding/Raylib-Practice/build/glfw/cmake_install.cmake",
+		"/Users/abrahamrock/Documents/Academics/Coding/Raylib-Practice/build/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

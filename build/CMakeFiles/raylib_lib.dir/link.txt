@@ -1,0 +1,2 @@
+/usr/bin/ar qc libraylib_lib.a CMakeFiles/raylib_lib.dir/raylib/src/raudio.c.o CMakeFiles/raylib_lib.dir/raylib/src/rcore.c.o CMakeFiles/raylib_lib.dir/raylib/src/rmodels.c.o CMakeFiles/raylib_lib.dir/raylib/src/rshapes.c.o CMakeFiles/raylib_lib.dir/raylib/src/rtext.c.o CMakeFiles/raylib_lib.dir/raylib/src/rtextures.c.o
+/usr/bin/ranlib libraylib_lib.a

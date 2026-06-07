@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/game.dir/src/main.cpp.o -o game  libraylib_lib.a -lm -framework OpenGL glfw/src/libglfw3.a -framework IOKit -framework Cocoa -framework CoreFoundation
